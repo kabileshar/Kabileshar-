@@ -12,7 +12,7 @@
 - 🔐 Security Tools: Azure AD, Intune, Wireshark, Firewalls
 - 📡 Networking: DNS, DHCP, VPN, HTTP/S, TLS/SSL
 - 🧠 ITSM Tools: Jira, ServiceNow, ServiceDesk
-- 🖥️ VMware vSphere | Active Directory | PowerShell & Bash (basic scripting)
+- 🖥️ VMware vSphere | Active Directory | PowerShell & Bash (basic scripting)| Java | Python
 - 📄 Documenting technical processes, creating knowledge bases, and supporting end users
 
 ---
@@ -23,7 +23,7 @@
 - 🧑‍💻 Virtualization & VM network segmentation using vSphere
 
 🛠️ Tools & Platforms I enjoy:
-`AWS` `Azure AD` `Microsoft 365` `vSphere` `Intune` `Jira` `Notion` `Slack` `PowerShell` `Bash`  
+`AWS` `Azure AD` `Microsoft 365` `vSphere` `Intune` `Jira`  `Slack` `PowerShell` `Bash`  
 
 ---
 
